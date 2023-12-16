@@ -1,0 +1,13 @@
+name = "Postcode"
+uuid = "9acfad14-1f02-498c-a9b4-577f81eefa22"
+authors = ["Alun ap Rhisiart <coding@alunaprhisiart.uk> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.3"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
